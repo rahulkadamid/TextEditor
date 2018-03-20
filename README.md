@@ -18,7 +18,7 @@
 ![](images/video1.gif)
 
 #### Calculate Flesch Index and Edit Distance :
-![](images/video3.gif)
+![](images/video2.gif)
 
 #### Generate Markov Text :
 ![](images/video3.gif)
